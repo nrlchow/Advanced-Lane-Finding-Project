@@ -40,14 +40,8 @@ Video Reference:
 
 [video1]: 
 
-[![Alt text](https://img.youtube.com/vi/7K5qkB90RzI/0.jpg)](https://www.youtube.com/watch?v=p2uZCqJTjrc)
+[![Alt text](https://img.youtube.com/vi/p2uZCqJTjrc/0.jpg)](https://www.youtube.com/watch?v=p2uZCqJTjrc)
 
-### Challenge Video
-[video2]: ./challenge_solution.mp4 "challenge Video"
-
-### Harder challenge Video
-
-[video3]: ./harder_challenge_solution.mp4 "harder challenge Video"
 
 ### README
 
@@ -211,17 +205,8 @@ I used the draw_lane pipeline to fit new data into the polynomial that I already
 
 Final output over the provided "project_video" video:
 
-[video1]: ./project_video_solution.mp4
-
-
 I also attempted to process challenge and harder challenge video though expected results were not produced.I required to create an additonal 
 binary_image_pipeline_challenge function in order to exclude HSV color threshold from the function.
-
-challenge_solution
-[video2]: ./challenge_solution.mp4 
-
-harder challenge Video
-[video3]: ./harder_challenge_solution.mp4 
 
 
 ### Discussion
